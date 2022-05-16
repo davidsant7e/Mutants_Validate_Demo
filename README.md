@@ -13,7 +13,7 @@ La base de datos utilizada para la aplicacion es hecha en MYSQL, en caso de quer
 Para correr el codigo fuente en un ambiente local se recomienda tener instalado visual studio 2019 e tener instalado MysqlClient version 8.0
 
 ```
-git clone https://github.com/davidsant7e/Mutant_Mercado.git
+git clone https://github.com/davidsant7e/Mutants_Validate_Demo.git
 ```
 Al descargar - Clonar el codigo fuente de la aplicacion es necesario abrir la solucion de la aplicacion la cual se encuentra en la primera carpeta "MercadoLibre_Muntantes".
 
